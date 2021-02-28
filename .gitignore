@@ -1,0 +1,11 @@
+__pycache__/
+.idea/
+data_json/
+data_pth/
+plot/
+research/
+segmented/
+unet/
+
+dataset.json
+dataset_div2.json
